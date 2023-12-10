@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vortexplus-staging-145535-authRole",
+      "UnauthRoleArn": "arn:aws:iam::082412816974:role/amplify-vortexplus-staging-145535-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::082412816974:role/amplify-vortexplus-staging-145535-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-vortexplus-staging-145535-deployment",
+      "UnauthRoleName": "amplify-vortexplus-staging-145535-unauthRole",
+      "StackName": "amplify-vortexplus-staging-145535",
+      "StackId": "arn:aws:cloudformation:us-east-1:082412816974:stack/amplify-vortexplus-staging-145535/2d049040-976c-11ee-8967-0a5aae0080d7",
+      "AmplifyAppId": "d25e9gm7ackekr"
+    },
+    "categories": {
+      "auth": {
+        "vortexplus": {}
+      }
+    }
+  }
+}
